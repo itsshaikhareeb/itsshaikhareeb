@@ -1,11 +1,11 @@
 <h1 align="center">Hi my name is Shaikh Areeb</h1>
-<h3 align="center">A passionate front end developer from India.</h3>
+<h3 align="center">A passionate Full Stack developer from India.</h3>
 
 - 🔭 I’m currently working on **Learning new things**
 
-- 🌱 I’m currently learning **Front end web development**
+- 🌱 I’m currently learning **Full Stack web development**
 
-- 🤝 I’m looking for help with **Front end web development**
+- 🤝 I’m looking for help with **Full Stack web development**
 
 
 <h3 align="left">Languages and Tools:</h3>
